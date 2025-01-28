@@ -34,7 +34,7 @@ Aplikasi ini memiliki antarmuka yang modern, responsif, dan mudah digunakan, seh
 ## Cara Instalasi
 1. **Clone Repository**:
     ```bash
-    git clone https://github.com/username/kalkulator-umur.git
+    git clone https://github.com/yuliyana08/kalkulator-umur.git
     ```
 2. **Pindah ke Direktori Proyek**:
     ```bash
